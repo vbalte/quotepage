@@ -3059,7 +3059,7 @@
 	}
 
 	#header {
-		background: #1c1c1c;
+		background: #010d11;
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		height: 4.25em;
@@ -3305,7 +3305,7 @@
 /* Banner */
 
 	#banner {
-		background-color: #3498db;
+		background-color: #0f0441;
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
